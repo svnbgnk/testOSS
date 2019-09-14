@@ -32,6 +32,7 @@ void print_vector(std::vector<T> v)
 int main(int argc, char * argv[])
 {
 
+     // This is trick to let the compiler tell you what type ss (as an error message) has. 
 //     auto ss = trivial_search_scheme(0, 3 , 5);
 //     nothing<decltype(ss)> a;
 
