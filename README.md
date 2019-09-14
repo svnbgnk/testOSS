@@ -1,4 +1,4 @@
-git clone https://github.com/svnbgnk/testOSS.git
+git clone https://github.com/svnbgnk/testOSS.git (Seqan3 has to be in the same directory)
 
 or better fork and clone your repository
 
